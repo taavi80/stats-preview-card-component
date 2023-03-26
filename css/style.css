@@ -70,7 +70,7 @@ main .bottom-container div {
     display: grid;
     grid-template: "main picture" / 1fr 1fr;
   }
-  picture {
+  header {
     grid-area: picture;
   }
   main {
